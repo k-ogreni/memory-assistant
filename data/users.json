@@ -1,0 +1,68 @@
+{
+    "alice@company.com": {
+        "email": "alice@company.com",
+        "name": "Alice Chen",
+        "role": "Frontend Developer",
+        "team": "Platform",
+        "preferences": {
+            "editor": "VS Code",
+            "language": "JavaScript"
+        },
+        "work_constraints": {
+            "timezone": "PST",
+            "no_meetings_friday": true
+        }
+    },
+    "bob@company.com": {
+        "email": "bob@company.com",
+        "name": "Bob Martinez",
+        "role": "Backend Developer",
+        "team": "Platform",
+        "preferences": {
+            "editor": "Neovim",
+            "language": "Go"
+        },
+        "work_constraints": {
+            "timezone": "EST"
+        }
+    },
+    "carol@company.com": {
+        "email": "carol@company.com",
+        "name": "Carol Smith",
+        "role": "Data Scientist",
+        "team": "Analytics",
+        "preferences": {
+            "language": "Python"
+        },
+        "work_constraints": {
+            "timezone": "CST",
+            "part_time": true
+        }
+    },
+    "dave@company.com": {
+        "email": "dave@company.com",
+        "name": "Dave Kim",
+        "role": "ML Engineer",
+        "team": "Analytics",
+        "preferences": {
+            "editor": "PyCharm"
+        },
+        "work_constraints": {
+            "timezone": "PST"
+        }
+    },
+    "kristina@company.com": {
+        "email": "kristina@company.com",
+        "name": "Kristina Ogreni",
+        "role": "Software Engineer",
+        "team": "Platform",
+        "preferences": {
+            "editor": "VSCode",
+            "language": "JavaScript"
+        },
+        "work_constraints": {
+            "no_office_visit_at": "8AM",
+            "unavailable_day": "Monday"
+        }
+    }
+}
