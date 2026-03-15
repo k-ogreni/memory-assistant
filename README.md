@@ -7,6 +7,8 @@ A conversational agent with two memory layers: working memory (session-only) for
 ```bash
 # install the reqs
 pip install -r requirements.txt
+# start ollama (and must have pulled a valid model, e.g., llama3.2:8b)
+ollama serve
 # run the app
 python main.py
 # run the demo with the sample convo
